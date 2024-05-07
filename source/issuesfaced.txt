@@ -1,0 +1,8 @@
+It was my first time using Poetry , before this i always created a virtual enviornemnt before starting a project. This time i did same
+not knowing that now i'll have to just enter "poetry shell". It delivered message "Virtual enviornment already activated" 
+
+
+Without minding much  i ran the command "python -m backend" and it threw error as it had to saying "No module named backend.__main__; "backend is a package and cannot be executed directly.
+Hence, had First Poetry Lesson.
+
+Re ran the command after deactivating virtual enviornment , and everything seems to be smooth for time being.
